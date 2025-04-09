@@ -1,4 +1,4 @@
-# Shortest-Path-Program
+# Dijkstra's-algorithm-Shortest-Path-Program
 This program uses Dijkstra's algorithm to find the shortest path from a chosen Node X to a chosen Node Y given a graph map symbolizing a road network. 
 Dijkstra's algorithm is an algorithm for finding the shortest paths between nodes in a weighted graph; in this program the weights correspond to the distance between the nodes
 
